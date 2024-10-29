@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using ArticulosAPI.Dto;
+using ArticulosAPI.Repositorio;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ArticulosAPI.Data;
-using ArticulosAPI.Modelos;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace ArticulosAPI.Controllers
 {
@@ -14,53 +11,50 @@ namespace ArticulosAPI.Controllers
     [ApiController]
     public class ArticulosController : ControllerBase
     {
-        private readonly ApplicationDbContext _context;
+        private readonly IRepositorio _repositorio;
 
-        public ArticulosController(ApplicationDbContext context)
+        public ArticulosController(IRepositorio repositorio)
         {
-            _context = context;
+            _repositorio = repositorio;
         }
 
         // GET: api/Articulos
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Articulo>>> GetArticulos()
+        public async Task<ActionResult<IEnumerable<ArticuloDto>>> GetArticulos()
         {
-            return await _context.Articulos.ToListAsync();
+            return Ok(await _repositorio.GetArticulo());
         }
 
         // GET: api/Articulos/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Articulo>> GetArticulo(int id)
+        public async Task<ActionResult<ArticuloDto>> GetArticulo(int id)
         {
-            var articulo = await _context.Articulos.FindAsync(id);
+            var articulo = await _repositorio.GetArticulo(id);
 
             if (articulo == null)
             {
                 return NotFound();
             }
 
-            return articulo;
+            return Ok(articulo);
         }
 
         // PUT: api/Articulos/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutArticulo(int id, Articulo articulo)
+        public async Task<IActionResult> PutArticulo(int id, ArticuloDto articulo)
         {
             if (id != articulo.Id)
             {
                 return BadRequest();
             }
 
-            _context.Entry(articulo).State = EntityState.Modified;
-
             try
             {
-                await _context.SaveChangesAsync();
+                await _repositorio.CrearOActualizar(articulo, id);
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!ArticuloExists(id))
+                if (!await ArticuloExists(id))
                 {
                     return NotFound();
                 }
@@ -74,35 +68,30 @@ namespace ArticulosAPI.Controllers
         }
 
         // POST: api/Articulos
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Articulo>> PostArticulo(Articulo articulo)
+        public async Task<ActionResult<ArticuloDto>> PostArticulo(ArticuloDto articulo)
         {
-            _context.Articulos.Add(articulo);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetArticulo", new { id = articulo.Id }, articulo);
+            var creado = await _repositorio.CrearOActualizar(articulo);
+            return CreatedAtAction("GetArticulo", new { id = creado.Id }, creado);
         }
 
         // DELETE: api/Articulos/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteArticulo(int id)
         {
-            var articulo = await _context.Articulos.FindAsync(id);
-            if (articulo == null)
+            var eliminado = await _repositorio.EliminarArticulo(id);
+            if (!eliminado)
             {
                 return NotFound();
             }
 
-            _context.Articulos.Remove(articulo);
-            await _context.SaveChangesAsync();
-
             return NoContent();
         }
 
-        private bool ArticuloExists(int id)
+        private async Task<bool> ArticuloExists(int id)
         {
-            return _context.Articulos.Any(e => e.Id == id);
+            var articulo = await _repositorio.GetArticulo(id);
+            return articulo != null;
         }
     }
 }

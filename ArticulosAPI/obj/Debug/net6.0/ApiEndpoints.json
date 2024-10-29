@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[ArticulosAPI.Modelos.Articulo, ArticulosAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ArticulosAPI.Dto.ArticuloDto, ArticulosAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -29,13 +29,13 @@
     "Parameters": [
       {
         "Name": "articulo",
-        "Type": "ArticulosAPI.Modelos.Articulo",
+        "Type": "ArticulosAPI.Dto.ArticuloDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "ArticulosAPI.Modelos.Articulo",
+        "Type": "ArticulosAPI.Dto.ArticuloDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -61,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "ArticulosAPI.Modelos.Articulo",
+        "Type": "ArticulosAPI.Dto.ArticuloDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -86,7 +86,7 @@
       },
       {
         "Name": "articulo",
-        "Type": "ArticulosAPI.Modelos.Articulo",
+        "Type": "ArticulosAPI.Dto.ArticuloDto",
         "IsRequired": true
       }
     ],

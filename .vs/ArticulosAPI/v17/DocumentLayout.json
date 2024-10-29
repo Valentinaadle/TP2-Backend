@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\dto\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\dto\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\modelos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\modelos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\repositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\repositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,48 +47,12 @@
       "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\migrations\\20221020153502_agregararticulosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\modelos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\modelos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\articulosapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\articulosapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\dto\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\dto\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\repositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\repositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\desarrollo de software\\desarrollo backend\\articulos-api\\articulosapi\\articulosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -66,76 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ArticulosAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "ArticulosAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T22:47:49.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArticulosController.cs",
-              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Controllers\\ArticulosController.cs",
-              "RelativeDocumentMoniker": "ArticulosAPI\\Controllers\\ArticulosController.cs",
-              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Controllers\\ArticulosController.cs",
-              "RelativeToolTip": "ArticulosAPI\\Controllers\\ArticulosController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAUwGYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:40:56.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "ArticulosAPI\\appsettings.json",
-              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\appsettings.json",
-              "RelativeToolTip": "ArticulosAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-23T15:40:56.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ArticuloDto.cs",
-              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Dto\\ArticuloDto.cs",
-              "RelativeDocumentMoniker": "ArticulosAPI\\Dto\\ArticuloDto.cs",
-              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Dto\\ArticuloDto.cs",
-              "RelativeToolTip": "ArticulosAPI\\Dto\\ArticuloDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:44:57.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Program.cs",
-              "RelativeDocumentMoniker": "ArticulosAPI\\Program.cs",
-              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Program.cs",
-              "RelativeToolTip": "ArticulosAPI\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:40:56.439Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -147,38 +82,120 @@
               "RelativeToolTip": "ArticulosAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-23T17:30:52.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T17:30:52.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Articulo.cs",
               "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Modelos\\Articulo.cs",
               "RelativeDocumentMoniker": "ArticulosAPI\\Modelos\\Articulo.cs",
               "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Modelos\\Articulo.cs",
               "RelativeToolTip": "ArticulosAPI\\Modelos\\Articulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:40:56.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T15:40:56.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "IRepositorio.cs",
               "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Repositorio\\IRepositorio.cs",
               "RelativeDocumentMoniker": "ArticulosAPI\\Repositorio\\IRepositorio.cs",
               "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Repositorio\\IRepositorio.cs",
               "RelativeToolTip": "ArticulosAPI\\Repositorio\\IRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:47:03.126Z",
+              "WhenOpened": "2024-10-23T15:47:03.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Repositorio\\Repositorio.cs",
+              "RelativeDocumentMoniker": "ArticulosAPI\\Repositorio\\Repositorio.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Repositorio\\Repositorio.cs",
+              "RelativeToolTip": "ArticulosAPI\\Repositorio\\Repositorio.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:42:50.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ArticulosAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ArticulosAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:40:56.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ArticulosAPI\\Program.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Program.cs",
+              "RelativeToolTip": "ArticulosAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:40:56.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloDto.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Dto\\ArticuloDto.cs",
+              "RelativeDocumentMoniker": "ArticulosAPI\\Dto\\ArticuloDto.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Dto\\ArticuloDto.cs",
+              "RelativeToolTip": "ArticulosAPI\\Dto\\ArticuloDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:44:57.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "ArticulosAPI\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "ArticulosAPI\\Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:40:56.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ArticulosAPI\\appsettings.json",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\appsettings.json",
+              "RelativeToolTip": "ArticulosAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T15:40:56.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ArticulosAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ArticulosAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:47:49.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20221020153502_AgregarArticulosDB.cs",
               "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Migrations\\20221020153502_AgregarArticulosDB.cs",
               "RelativeDocumentMoniker": "ArticulosAPI\\Migrations\\20221020153502_AgregarArticulosDB.cs",
@@ -186,37 +203,22 @@
               "RelativeToolTip": "ArticulosAPI\\Migrations\\20221020153502_AgregarArticulosDB.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:40:56.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T15:40:56.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ArticulosAPI\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ArticulosAPI\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:40:56.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ArticulosAPI",
               "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\ArticulosAPI.csproj",
               "RelativeDocumentMoniker": "ArticulosAPI\\ArticulosAPI.csproj",
               "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\ArticulosAPI.csproj",
               "RelativeToolTip": "ArticulosAPI\\ArticulosAPI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-23T17:30:48.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T17:30:48.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MappingConfiguration.cs",
               "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\MappingConfiguration.cs",
               "RelativeDocumentMoniker": "ArticulosAPI\\MappingConfiguration.cs",
@@ -224,34 +226,19 @@
               "RelativeToolTip": "ArticulosAPI\\MappingConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:49:37.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Repositorio.cs",
-              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Repositorio\\Repositorio.cs",
-              "RelativeDocumentMoniker": "ArticulosAPI\\Repositorio\\Repositorio.cs",
-              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\Repositorio\\Repositorio.cs",
-              "RelativeToolTip": "ArticulosAPI\\Repositorio\\Repositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:42:50.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T15:49:37.063Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ArticulosAPI",
+              "Title": "ArticulosAPI.csproj",
               "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\ArticulosAPI.csproj",
               "RelativeDocumentMoniker": "ArticulosAPI\\ArticulosAPI.csproj",
               "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Articulos-API\\ArticulosAPI\\ArticulosAPI.csproj",
               "RelativeToolTip": "ArticulosAPI\\ArticulosAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-23T15:43:13.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T15:43:13.805Z"
             }
           ]
         }
